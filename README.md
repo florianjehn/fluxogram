@@ -1,2 +1,2 @@
 # fluxogram
-A simple programm to visualize fluxes
+A simple tool to visualize fluxes
